@@ -18,8 +18,9 @@ cyanc = Style.BRIGHT + Fore.CYAN
 print()
 print(f"{magentac}[*] telegram-hidden-group-members-scraper")
 print()
-print(f"{greenc}[*] www.KenzaByte.com")
+print(f"{greenc}[*] www.KenzaByte.com ")
 print()
 print(f"{cyanc}[*] Contact : https://www.kenzabyte.com/contact-us/")
 print()
 a=input("[*] Press any key to exit...")
+
